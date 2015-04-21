@@ -1,0 +1,6 @@
+c:\users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\bin\Debug\GetEmailFromAD.exe.config
+c:\users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\obj\Debug\GetEmailFromAD.csprojResolveAssemblyReference.cache
+c:\users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\bin\Debug\GetEmailFromAD.exe
+c:\users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\bin\Debug\GetEmailFromAD.pdb
+c:\users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\obj\Debug\GetEmailFromAD.exe
+c:\users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\obj\Debug\GetEmailFromAD.pdb
