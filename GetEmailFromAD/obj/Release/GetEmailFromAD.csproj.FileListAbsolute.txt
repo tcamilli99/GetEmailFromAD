@@ -1,0 +1,5 @@
+C:\Users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\bin\Release\GetEmailFromAD.exe.config
+C:\Users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\bin\Release\GetEmailFromAD.exe
+C:\Users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\bin\Release\GetEmailFromAD.pdb
+C:\Users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\obj\Release\GetEmailFromAD.exe
+C:\Users\camilli\documents\visual studio 2015\Projects\GetEmailFromAD\GetEmailFromAD\obj\Release\GetEmailFromAD.pdb
